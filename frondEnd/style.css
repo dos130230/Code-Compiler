@@ -1,0 +1,141 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/*header section*/
+
+.header{
+  background-color: #24B7DE;
+  padding: 20px 10px;
+  width: 100%;
+
+
+}
+
+
+
+.header h1 {
+  font-weight: bold;
+  margin-left: 20px;
+  color: white;
+
+
+}
+
+
+
+/*header section*/
+
+
+
+
+#container{
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
+
+ /*hozir chap tarafga ishlov beramiz*/
+
+#right_section{
+	width: 60%;
+	font-size: 20px;
+	margin-right:10px;
+	margin-bottom: 10px;
+	background-color: #f7f7f7;
+  border: 1px solid #e0e1e2;
+	padding: 20px;
+	height: 100%;
+	border-radius: 3px;
+
+
+
+
+}
+ul{
+	margin-left: 30px;
+}
+
+#task_select{
+	width: 100%;
+	outline: none;
+	height: 50px;
+	font-size: 20px;
+	border: none;
+	border-radius: 10px;
+	background-color: #24B7DE;
+	color: white;
+	padding: 0 10px;
+}
+
+#question{
+	margin-top: 50px;
+}
+
+ /*hozir chap tarafga ishlov beramiz*/
+
+
+
+#left_section{
+	border-radius: 5px;
+	width: 40%;
+	margin-left: 20px;
+	overflow: hidden;
+	font-size: 20px;
+
+
+}
+
+
+
+
+/*==================================================================================*/
+
+
+#w3review{
+	width: 100%;
+	height: 400px;
+	overflow: hidden;
+	outline: none;
+	overflow: auto;
+	padding: 20px;
+	border: none;
+  background-color: #f7f7f7;
+  border: 1px solid #e0e1e2;
+
+}
+
+#check{
+	width: 80px;
+	height: 40px;
+	background-color: green;
+	border: none;
+	color: white;
+	font-size: 20px;
+	width: 100px;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+
+/*Now result table section*/
+#Result_table{
+  background-color: #f7f7f7;
+  border: 1px solid #e0e1e2;
+  border-radius: 5px;
+	width: 100%;
+	height: 250px;
+	margin-top: 20px;
+	overflow: auto;
+	padding: 10px;
+}
+
+
+/*Now result table section*/
+
+
